@@ -1,0 +1,222 @@
+@media(min-width:1200px) and (max-width:1299px){
+    .site-nav-wrapper{
+        padding: 0 20px;
+    }
+}
+@media(min-width:992px) and (max-width:1199px){
+    .site-nav-wrapper{
+        padding: 0;
+    }
+    .vertical-heading h2{
+        font-size: 29px;
+    }
+    .service-tab .tab-bg {
+   padding: 16px 30px;
+    min-height: 400px;
+}
+    service-tab p{
+        line-height: 20px;
+    }
+}
+@media(min-width:768px) and (max-width:991px){
+    .site-nav-wrapper{
+        padding: 0;
+    }
+    #home-heading h1 {
+        font-size: 41px;
+    
+}
+    #home-text p{
+        font-size: 13px;
+    }
+    .btn-general{
+        padding: 8px 35px 8px 35px;
+        font-size: 10px;
+    }
+    .vertical-heading h2{
+        font-size: 29px;
+    }
+    #tech-statement h3 {
+    font-size: 20px;
+    line-height: 30px;
+  
+}
+    .r-tabs-accordion-title{
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .r-tabs-accordion-title a{
+        font-size: 13px;
+    color: #212226;
+    font-family: raleway;
+    text-transform: uppercase;
+    font-weight: 400;
+    text-decoration: none;
+    }
+    .r-tabs-accordion-title.r-tabs-state-active a
+{
+    color: #f4c613;
+    border-bottom: solid 3px;
+    padding-bottom: 5px;
+    transition: border-color 300ms liniear;
+}
+    .pricing-table .price h2 {
+    font-size: 35px;
+    margin: 0 0 0 6px;
+}
+    .blog-post .meta-data p {
+   
+    line-height: 14px;
+   
+}
+    ul.office-details li i {
+    font-size: 20px;
+    width: 25px;
+}
+    ul.office-details li{
+        margin-right: 15px;
+    }
+    
+    .stats-item p {
+   line-height: 18px;
+}
+}
+
+@media(max-width:767px){
+    
+    #home-heading h1 {
+        font-size: 22px;
+    
+}
+    #home-text p{
+        font-size: 10px;
+        line-height: 15px;
+        margin: 8px 2px 30px 2px;
+    }
+    .btn-general{
+        padding: 8px 25px 6px 25px;
+        font-size: 10px;
+    }
+    .content-box-lg{
+        padding: 90px 0;
+    }
+     .vertical-heading {
+        text-align: center;
+    }
+    .vertical-heading h5{
+        transform: rotate(0deg);
+        display: block;
+        position: static;
+    }
+    .vertical-heading h2{
+        font-size: 29px;
+        line-height: normal;
+        margin: 0;
+    }
+    #about-left{
+        margin-bottom: 50px;
+    }
+    #about-right p{
+        text-align: center;
+    }
+    .content-box-md{
+        padding: 80px 0;
+    }
+    .about-item {
+   
+    padding: 55px 30px;
+        margin-bottom: 35px;
+}
+    .about-item i{
+        font-size: 30px;
+    }
+    .about-item h3{
+        font-size: 18px;
+    }
+    #team-left .vertical-heading{
+        min-height: 130px;
+    }
+    .skill h4 {
+    font-size: 14px;
+    line-height: 35px;
+}
+     #tech-statement h3 {
+    font-size: 20px;
+    line-height: 30px;
+  
+}
+    .horizontal-heading {
+        margin-bottom: 40px;
+}
+    .horizontal-heading h2 {
+        font-size: 30px;
+}
+    
+    #section-01 img {
+    margin: 35px 0;
+}
+    .service, .service .icon{
+        text-align: center;
+    }
+    
+    .service h4{
+        font-size: 18px
+    }
+    .r-tabs-accordion-title{
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .r-tabs-accordion-title a{
+        font-size: 13px;
+    color: #212226;
+    font-family: raleway;
+    text-transform: uppercase;
+    font-weight: 400;
+    text-decoration: none;
+    }
+    .r-tabs-accordion-title.r-tabs-state-active a
+{
+    color: #f4c613;
+    border-bottom: solid 3px;
+    padding-bottom: 5px;
+    transition: border-color 300ms liniear;
+}
+    #services-tabs .tab-bg
+    {
+        text-align: center;
+        padding: 40px 30px;
+    }
+    .service-tab h2 {
+    font-size: 40px;
+    
+}
+    .service-tab h3 {
+    font-size: 28px;
+   
+}
+    #portfolio
+    {
+        padding-bottom: 0;
+    }
+    #testimonials{
+        padding-top: 45px;
+    }
+    #testimonials vertical-heading
+    {
+        padding:0;
+    }
+    #testimonial-slider{
+        top:0;
+    }
+    .testimonial h3 {
+    font-size: 20px;
+   
+}
+    .testimonial .stars {
+    font-size: 16px;
+}
+    .author img{
+        width: 80px!important;
+    }
+    
+}
